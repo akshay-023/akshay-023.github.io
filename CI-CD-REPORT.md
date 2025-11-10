@@ -78,7 +78,7 @@ This pipeline is essential for large software projects. It ensures consistent, e
   ![About Page Screenshot](screenshots/About.png)
 
   **Projects Page Proof:**
-  ![Projects Page Screenshot](screenshots/My Projects.png)
+  ![Projects Page Screenshot](screenshots/MyProjects.png)
 
   **Contact Page Proof:**
   ![Contact Page Screenshot](screenshots/Contact.png)
