@@ -67,12 +67,18 @@ This pipeline is essential for large software projects. It ensures consistent, e
 ## Screenshots
 
 - [x] Initial deployment
-      ![Initial Deployment Screenshot](C:\Users\aksha\Pictures\Screenshots\initail_deployment.png)
+      ![Initial Deployment Screenshot](screenshots/initial_deployment.png)
 
 - [x] GitHub Actions tab showing successful builds
-      ![GitHub Actions History Screenshot](C:\Users\aksha\Pictures\Screenshots\github_actions_history.png)
+      ![GitHub Actions History Screenshot](screenshots/github_actions_history.png)
 
-- [x] Live website after final iteration (Includes views of Home, About, and Contact pages)
-      ![Final Live Website Screenshot]("C:\Users\aksha\Pictures\Screenshots\About.png")
-      ("C:\Users\aksha\Pictures\Screenshots\My Projects.png")
-      ("C:\Users\aksha\Pictures\Screenshots\Contact.png")
+- [x] Live website after final iteration (Includes views of About, Contact, and Projects pages)
+
+  **About Page Proof:**
+  ![About Page Screenshot](screenshots/About.png)
+
+  **Projects Page Proof:**
+  ![Projects Page Screenshot](screenshots/My Projects.png)
+
+  **Contact Page Proof:**
+  ![Contact Page Screenshot](screenshots/Contact.png)
